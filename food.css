@@ -1,0 +1,219 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background: white;
+  width: 100%;
+  height: 65px;
+  position: sticky;
+  top: 0;
+}
+.navbar img {
+  width: 150px;
+  margin-top: -10px;
+  margin-left: 107px;
+}
+.navbar .menu {
+  float: right;
+  margin-top: 21px;
+  margin-right: 82px;
+}
+.navbar .menu a {
+  text-decoration: none;
+  font-size: 20px;
+  margin: 0 10px;
+  color: #e670a4;
+}
+/* banner css*/
+.banner {
+  background: url(./image/banner.jpg);
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  /* background-color: red; */
+}
+.banner h1 {
+  color: white;
+  font-size: 35px;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  position: relative;
+  top: 35%;
+  font-family: cursive;
+}
+.banner .flag {
+  background: #00000036;
+  width: 100%;
+  height: 65px;
+  position: relative;
+  top: 370px;
+}
+.banner .flag h3 {
+  color: white;
+  position: relative;
+  top: 30%;
+}
+.banner .flag a {
+  float: right;
+  margin: 15px;
+  position: relative;
+  top: -20px;
+}
+.whitespace {
+  background: white;
+  width: 100%;
+  height: 300px;
+  /* background-attachment: fixed; */
+}
+.whitespace h2 {
+  text-align: center;
+  color: #d70f64;
+  margin-top: 70px;
+}
+.whitespace h1 {
+  text-align: center;
+  color: #d70f64;
+  margin: auto;
+  width: 50%;
+  position: relative;
+  top: 12%;
+  font-size: 20px;
+  font-family: cursive;
+}
+.whitespace h3 {
+  background: #d70f64;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin: auto;
+  width: 25%;
+  position: relative;
+  top: 30%;
+  padding: 10px;
+  font-family: sans-serif;
+}
+.banner1 {
+  background: url(./image/banner1.jpg);
+  width: 100%;
+  height: 800px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.banner1 h3 {
+  color: #d70f64;
+  font-size: 45px;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  position: relative;
+  top: 50%;
+  font-family: sans-serif;
+}
+.banner1 h6 {
+  color: white;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  position: relative;
+  top: 55%;
+  font-family: cursive;
+  font-size: 20px;
+}
+.banner1 h4 {
+  background: #d70f64;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  margin: auto;
+  width: 15%;
+  position: relative;
+  top: 60%;
+  font-family: sans-serif;
+  padding: 10px;
+}
+.banner2 {
+  background: url(./image/banner2.jpg);
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.banner2 h3 {
+  color: #d70f64;
+  font-size: 35px;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  position: relative;
+  top: 50%;
+  font-family: sans-serif;
+}
+.banner2 h2 {
+  color: white;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  position: relative;
+  top: 55%;
+  font-family: cursive;
+  font-size: 20px;
+}
+.banner2 h1 {
+  background: #d70f64;
+  color: white;
+  font-size: 13px;
+  text-align: center;
+  margin: auto;
+  width: 15%;
+  position: relative;
+  top: 60%;
+  font-family: sans-serif;
+  padding: 15px;
+}
+.bottom {
+  background: #d70f64;
+  width: 100%;
+  height: 380px;
+  background-attachment: fixed;
+}
+.bottom h1 {
+  text-align: center;
+  color: white;
+  position: relative;
+  top: 25%;
+}
+.bottom h2 {
+  text-align: center;
+  color: white;
+  margin: auto;
+  width: 50%;
+  position: relative;
+  top: 38%;
+  font-size: 20px;
+  font-family: cursive;
+}
+.bottom h3 {
+  background: white;
+  color: #d70f64;
+  font-size: 13px;
+  text-align: center;
+  margin: auto;
+  width: 15%;
+  position: relative;
+  top: 46%;
+  font-family: sans-serif;
+  padding: 15px;
+}
+.bottom1 {
+  background: white;
+  width: 100%;
+  height: 150px;
+  background-attachment: fixed;
+}
+.bottom1 img {
+  width: 250px;
+  margin-top: -10px;
+  margin-left: 107px;
+}
